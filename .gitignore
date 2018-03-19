@@ -103,3 +103,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+Exercises/2011_US_AGRI_Exports
+Exercises/2012_Election_Data
+Exercises/2014_World_GDP
+Exercises/2014_World_Power_Consumption
